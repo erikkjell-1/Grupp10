@@ -7,7 +7,7 @@
  *
  * @author Admin
  */
-public class Home {
+public class Test {
 
     /**
      * @param args the command line arguments
